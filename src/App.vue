@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Jenkins Auto Deployment Service Test! Vue.js App" />
+  <HelloWorld msg="one More Jenkins!!" />
 </template>
 
 <script>
