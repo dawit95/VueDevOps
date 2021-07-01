@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 다윗! Vue.js App" />
+  <HelloWorld msg="Welcome to Jenkins ! Vue.js App" />
 </template>
 
 <script>
