@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/VueDevOps/',
+  publicPath: '/',
   outputDir: 'dist',
 };
